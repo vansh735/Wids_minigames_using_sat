@@ -39,6 +39,8 @@ refer to lectures 9 and 10 to understand what DPLL is
 
 6. For DPLL can trying referring to first 3-4 lectures of : https://www.youtube.com/watch?v=qnEhZFH9gXw&list=PLbLuy9jaJwu07biHdKGHLmuCYClD-2iHj&index=1. The rest are not needed can watch if interested
 
+7. A nice blog post on SAT solvers and SAT encoding https://rvprasad.medium.com/sat-encoding-an-introduction-44d23049ab2a 
+
 You are free to look up and study other online resources if you find anything helpful, but the above are more than sufficient to finish the project.
 
 (I made a small mistake as a result of which you can technically access week 3 week 4 materials early. )
