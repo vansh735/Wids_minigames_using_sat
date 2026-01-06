@@ -1,4 +1,4 @@
-repo containing materials for minigames using sat solvers
+
 
 The tentative plan is as follows 
 
